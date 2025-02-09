@@ -1,4 +1,4 @@
-// script.js
+// new script.js
 
 // Function to handle button click events
 function selectOption(option) {

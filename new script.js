@@ -1,5 +1,3 @@
-// new script.js
-
 // Function to handle button click events
 function selectOption(option) {
     // Check which option was clicked
